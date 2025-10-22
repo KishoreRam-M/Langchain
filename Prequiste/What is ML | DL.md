@@ -1,8 +1,4 @@
 
-Here’s a clear, beginner-friendly explanation of the difference between Machine Learning (ML) and Deep Learning (DL), with practical examples, analogies, diagrams, and hands-on tips.
-
-***
-
 ## Machine Learning vs Deep Learning
 
 ### Concept Definition
