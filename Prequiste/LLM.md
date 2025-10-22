@@ -1,9 +1,3 @@
-
-
- *** Large Language Models (LLMs) are a special type of deep learning model designed to understand and generate human language. They are the brains behind modern AI chatbots, code assistants, and many advanced text applications.
-
-***
-
 ## Large Language Models (LLMs): Explained
 
 ### Concept Definition
