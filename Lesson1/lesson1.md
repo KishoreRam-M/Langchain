@@ -1,13 +1,3 @@
-👉 **What’s your goal with LangChain?**
-
-* A) Interview mastery
-* B) Building production systems
-* C) Both (most common)
-
-You can answer with just **A / B / C**.
-
----
-
 # 📌 LESSON 1 — *When Should You Use LangChain (and When You Shouldn’t)*
 
 *(Based strictly on Chapter 1 of the subtitles)*
